@@ -31,9 +31,9 @@ Feature a horizontal bar chart reflecting subtype popularity based on likes, rev
 
 
 
+![dashboard_screenshot](https://github.com/siddharthnaik03/NewsFeed_Analysis_Dashboard-Using-Tableau/assets/173901732/b54fddb2-725d-42f5-b5e8-9ce46862936f)
 
 
 
 
 
-![dashboard_screenshot](https://github.com/siddharthnaik03/NewsFeed_Analysis_Dashboard-Using-Tableau/assets/173901732/80188a15-6ea1-4ea0-84dd-d0caa5483339)
